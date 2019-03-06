@@ -1,0 +1,3 @@
+ECMA Script assignment
+Undefined value – A value that has been declared but has not been assigned a value.
+Null value – An assignmenment value that can be assigned to a variable to represent no value.
